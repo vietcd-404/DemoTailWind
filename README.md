@@ -1,4 +1,4 @@
 # DemoTailWind
-Khi clone về:
-npm install
-npm run dev
+**Khi clone về:**
+- npm install
+- npm run dev
